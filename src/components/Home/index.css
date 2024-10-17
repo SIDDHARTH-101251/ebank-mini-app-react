@@ -1,0 +1,40 @@
+.home-container {
+  height: 100vh;
+  background-color: #152850;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  width: 100%;
+}
+
+.logo-style {
+  width: 100px;
+}
+
+.logout-button {
+  border: 1px solid #e0eefe;
+  font-family: 'Roboto';
+  color: #e0eefe;
+  width: 100px;
+  height: 36px;
+  background-color: transparent;
+}
+
+.home-page-heading {
+  font-family: 'Roboto';
+  font-size: 48px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.card-image {
+  width: 40%;
+}
